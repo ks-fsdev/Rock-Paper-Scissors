@@ -75,10 +75,10 @@
 <h2>📸 Gameplay Demo</h2>
 
 <p><strong>🕹️ Full Game Playthrough</strong></p>
-<img src="ss/game.gif" alt="Rock Paper Scissors Gameplay" width="500" />
+<img src="ss/game.gif" alt="Rock Paper Scissors Gameplay"/>
 
 <p><strong>🌓 Light/Dark Mode Toggle</strong></p>
-<img src="ss/dark-light-theme.gif" alt="Mode Toggle Preview" width="500" />
+<img src="ss/dark-light-theme.gif" alt="Mode Toggle Preview"/>
 
 <hr />
 
